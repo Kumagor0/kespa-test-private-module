@@ -1,0 +1,8 @@
+{
+  "name": "@kespa/test-private-module",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Kumagor0/kespa-test-private-module.git",
+  "author": "Gleb Gladkiy <gleba@yandex.ru>",
+  "license": "MIT"
+}
